@@ -1,0 +1,31 @@
+body{
+	font-family: Arial, sans-serif;
+	background-color: antiquewhite;
+	margin: 0;
+}
+nav{
+	background-color:#DCB6D9;
+	padding: 10px;
+}
+nav ul{
+	list-style: none;
+	display: flex;
+	justify-content:center 
+}
+nav ul li{
+	margin: 0 15px;
+}
+nav ul il a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+.container{
+	padding: 150px;
+	text-align: center;
+}
+.profile{
+	width: 150px;
+	border-radius: 50%;
+	margin-top: 20px;
+}
